@@ -11,7 +11,7 @@ function Main() {
     return (
         <div>
             <h1>튜터찾고 대학가자!</h1>
-            <h1>검증된 튜터!!</h1>
+            <h1>검증된 튜터</h1>
             <div className="profiles-container">
                 <Profile
                     imageSrc="url_to_image1.jpg"
